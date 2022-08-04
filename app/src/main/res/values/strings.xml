@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="tvBussinessCard">Cartão de Visita</string>
+    <string name="fabAdd_button">Add button</string>
+    <string name="tvNewCard">Novo Cartão</string>
+    <string name="tilNome">Nome</string>
+    <string name="tilTelefone">Telefone</string>
+    <string name="tilEmail">Email</string>
+    <string name="tilEmpresa">Empresa</string>
+    <string name="tilCor">Cor</string>
+    <string name="btnConfirm">Confirmar</string>
+    <string name="txtShowSucess">Cartão cadastrado com sucesso</string>
+    <string name="txtShare">Compartilhar</string>
+</resources>
